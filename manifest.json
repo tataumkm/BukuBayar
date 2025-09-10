@@ -1,0 +1,21 @@
+{
+  "name": "BukuBayar",
+  "short_name": "BukuBayar",
+  "description": "Solusi Pintar Kelola Tagihan.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#4a6bdf",
+  "theme_color": "#4a6bdf",
+  "icons": [
+    {
+      "src": "./icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
